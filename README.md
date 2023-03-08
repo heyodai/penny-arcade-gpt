@@ -1,2 +1,3 @@
-# penny-arcade-news-scraper
-Code to assemble a dataset of Penny Arcade news posts
+# Penny Arcade GPT
+
+The goal of this repo is to fine-tune a GPT text-generation model on news posts from the Penny Arcade comic strips.
