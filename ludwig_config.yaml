@@ -1,0 +1,10 @@
+input_features:
+  name: prompt
+  type: text
+  encoder: t5
+  trainable: true
+
+output_features:
+  name: output
+  type: text
+  decoder: gru
